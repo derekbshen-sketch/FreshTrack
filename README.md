@@ -28,8 +28,9 @@ Program instructors and the Cooper Union STEM App Lab coordinator recognized Fre
 
 ## Screenshots
 
-### Screenshot 1
-![FreshForge Screenshot 1](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.46.23.png)
+### Home
+![FreshForge Home](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.46.23.png)
+
 
 ### Screenshot 2
 ![FreshForge Screenshot 2](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.50.31.png)
