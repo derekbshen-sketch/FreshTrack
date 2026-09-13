@@ -4,7 +4,7 @@ FreshForge is an iOS app designed to help users track food expiration dates, org
 
 ## Overview
 
-FreshForge provides a visual way to keep track of food stored at home. Users can add food through receipt scanning or manual entry, organize items by expiration date, receive reminders, view food history, and explore recommendations for using food before it expires.
+FreshForge provides a visual way to keep track of food stored at home. Users can add food through receipt scanning or manual entry, organize items by expiration date, receive reminders, view food history, and explore recommendations for using food before it expires. Users can also manage grocery budgets.
 
 ## Features
 
