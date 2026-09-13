@@ -29,7 +29,7 @@ Program instructors and the Cooper Union STEM App Lab coordinator recognized Fre
 ## Screenshots
 
 ### Home
-![FreshForge Home](Screenshots/Simulator Screenshot - iPhone 17 Pro - 2026-08-10 at 09.46.23)
+![FreshForge Home](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.46.23.png)
 
 ## Technologies
 
