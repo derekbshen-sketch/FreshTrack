@@ -28,17 +28,20 @@ Program instructors and the Cooper Union STEM App Lab coordinator recognized Fre
 
 ## Screenshots
 
-### Home
-![FreshForge Home](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.50.31.png)
-![FreshForge Home](Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.46.23.png)
-![FreshForge Home](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.48.47.png)
+### Screenshot 1
+![FreshForge Screenshot 1](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.46.23.png)
 
-### Settings
-![FreshForge Settings](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.48.30.png)
+### Screenshot 2
+![FreshForge Screenshot 2](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.50.31.png)
 
-### Finance
-![FreshForge Finance](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.47.31.png)
+### Screenshot 3
+![FreshForge Screenshot 3](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.48.47.png)
 
+### Screenshot 4
+![FreshForge Screenshot 4](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.48.30.png)
+
+### Screenshot 5
+![FreshForge Screenshot 5](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-08-10%20at%2009.47.31.png)
 
 ## Technologies
 
